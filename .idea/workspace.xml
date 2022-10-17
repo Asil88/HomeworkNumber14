@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8674d84d-2075-42a6-9441-77d5b046da1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworkNumber14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/ClassInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Optional/NewClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,12 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665947162818</updated>
-      <workItem from="1665947164421" duration="6408000" />
+      <workItem from="1665947164421" duration="14988000" />
     </task>
+    <task id="LOCAL-00001" summary="Main tasks">
+      <created>1665956097297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665956097297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main tasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -74,6 +82,11 @@
           <url>file://$PROJECT_DIR$/src/Main/Task1.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Optional/NewClass.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
